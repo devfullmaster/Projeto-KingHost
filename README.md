@@ -19,7 +19,7 @@ O projeto foi desenvolvido com as seguintes ferramentas:
 
 - HTML
 - CSS
-- Sass
+- SASS
 
 ---
 

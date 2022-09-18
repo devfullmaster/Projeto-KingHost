@@ -19,7 +19,6 @@ O projeto foi desenvolvido com as seguintes ferramentas:
 
 - HTML
 - CSS
-- Gulp
 - Sass
 
 ---

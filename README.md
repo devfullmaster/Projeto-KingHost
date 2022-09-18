@@ -24,7 +24,7 @@ O projeto foi desenvolvido com as seguintes ferramentas:
 
 ---
 
-### 🚀 ​ [Clique aqui](https://projeto-landing-page-blizzard.vercel.app/)🔗 e veja o projeto no ar.
+### 🚀 ​ [Clique aqui](https://projeto-king-host.vercel.app/)🔗 e veja o projeto no ar.
 
 ---
 
@@ -32,12 +32,12 @@ O projeto foi desenvolvido com as seguintes ferramentas:
 
 <a href="https://github.com/devfullmaster/Projeto-Landing-Page-Blizzard/tree/master">Acesse aqui</a>🔗 o código fonte pelo GitHub.
 
-Faça o <a href="https://github.com/devfullmaster/Projeto-Landing-Page-Blizzard/archive/refs/heads/master.zip">Download aqui</a>🔗 do código fonte no formato zip.
+Faça o <a href="https://github.com/devfullmaster/Projeto-KingHost/tree/master">Download aqui</a>🔗 do código fonte no formato zip.
 
 Clone o repositório:
 
 ```
-git clone https://github.com/devfullmaster/Projeto-Landing-Page-Blizzard.git
+git clone https://github.com/devfullmaster/Projeto-Neon.git
 ```
 
 ---
